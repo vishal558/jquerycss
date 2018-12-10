@@ -1,3 +1,4 @@
+<script type="text/javascript">
 $(document).ready(function(){   
    $(".btn-group__multiple-radio").click(function(){
         $(this).toggleClass("open");
@@ -156,3 +157,4 @@ function inputsToDropdown(container, defaultValue, inputType, controlContainer, 
         }
     }
 }
+</script>
